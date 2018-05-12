@@ -1,0 +1,32 @@
+_repo: Some-Objections-To-SocialismFrom--The-Atheistic-Platform--Twelve-Lectures_36272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradlaugh, Charles
+    aliases:
+    - Bradlaugh, C. (Charles)
+    - Iconoclast
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+description: ''
+gutenberg_issued: '2011-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Socialism -- Great Britain -- History -- 19th century'
+title: 'Some Objections To Socialism
+
+  From "The Atheistic Platform", Twelve Lectures'
+url: http://www.gutenberg.org/ebooks/36272
